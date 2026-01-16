@@ -1,2 +1,2 @@
 # Helper-robo.arm
-A project where i make a robot arm to help in my next projects!
+I'm working on it, trying my best but i don't have access to a 3d printer so it's going to take a long time to finish.
