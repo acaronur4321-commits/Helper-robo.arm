@@ -1,2 +1,2 @@
 # Helper-robo.arm
-I'm working on it, trying my best but i don't have access to a 3D printer so it's going to take a long time to finish.
+Hello, i'm making my own robot arm which helps me build my next projects and i'm making it COMPLETELY open source! Which means you can do it too. Also, i'm using a arduino uno to make the project easier.
